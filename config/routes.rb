@@ -1,4 +1,6 @@
 Photo::Application.routes.draw do
+  resources :pictures
+
   root :to => "welcome#index"
 
   get "welcome/index"
