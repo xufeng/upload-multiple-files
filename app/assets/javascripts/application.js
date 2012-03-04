@@ -12,8 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require best_in_place
 //= require jquery.iframe-transport
 //= require jquery.fileupload
 //= require jquery.fileupload-ui
 //= require shadowbox
+//= require pictures/customupload
+//= require pictures/form
 //= require_tree .
